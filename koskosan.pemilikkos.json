@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "676cab35c4504f76b84eeb88"
+  },
+  "idpemilik": "001",
+  "fname": "jamal",
+  "lname": "udin",
+  "notelp": "085709087576",
+  "email": "jamal@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "676cab5bc4504f76b84eeb89"
+  },
+  "idpemilik": "002",
+  "fname": "siti",
+  "lname": "nurbaya",
+  "notelp": "085856478684",
+  "email": "bayaa@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "676cab83c4504f76b84eeb8a"
+  },
+  "idpemilik": "003",
+  "fname": "ladya",
+  "lname": "putri",
+  "notelp": "085578953627",
+  "email": "puputa@gmail.com"
+}]

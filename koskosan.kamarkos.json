@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "676cabfbc4504f76b84eeb8b"
+  },
+  "no.kamar": "17",
+  "namakamar": "lily",
+  "tipekamar": "normal",
+  "hargakamar": "1.500.000",
+  "statusketersediaan": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "676cac1ec4504f76b84eeb8c"
+  },
+  "no.kamar": "18",
+  "namakamar": "benben",
+  "tipekamar": "mewah",
+  "hargakamar": "3.000.000",
+  "statusketersediaan": "tersedia"
+},
+{
+  "_id": {
+    "$oid": "676cac4dc4504f76b84eeb8d"
+  },
+  "no.kamar": "07",
+  "namakamar": "benben",
+  "tipekamar": "ekonomis",
+  "hargakamar": "750.000",
+  "statusketersediaan": "penuh"
+}]

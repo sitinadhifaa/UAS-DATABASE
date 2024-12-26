@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "676cadd2c4504f76b84eeb92"
+  },
+  "notrans": "776",
+  "tanggalbayar": "12-12-2021",
+  "nominal": "1.500.000",
+  "metode": "tunai",
+  "status": "sudah dibayar"
+}]

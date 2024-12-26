@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "676cacbac4504f76b84eeb8e"
+  },
+  "noid": "112",
+  "tipekamar": "ekonomis",
+  "fasilitas": "kamar mandi dan dapur bersama",
+  "harga": "750.000/bulan"
+},
+{
+  "_id": {
+    "$oid": "676cace1c4504f76b84eeb8f"
+  },
+  "noid": "122",
+  "tipekamar": "normal",
+  "fasilitas": "kamar mandi sendiri dan dapur bersama",
+  "harga": "1.500.000/bulan"
+},
+{
+  "_id": {
+    "$oid": "676cad0cc4504f76b84eeb90"
+  },
+  "noid": "222",
+  "tipekamar": "mewah",
+  "fasilitas": "kamar mandi sendiri, dapur bersama, ac dan wifi",
+  "harga": "3.000.000/bulan"
+}]
